@@ -69,6 +69,8 @@ function checkClicked(currentLevel) {
     console.log("sucess");
     if (gamepattern.length === userClickedPattern.length) {
       setTimeout(function () {
+        // Bug fixed
+        // this prevents game bug that if the player misses while waiting for the timer the game will restart itself
         if (level !== 0) nextSequence();
       }, 1000);
     }
