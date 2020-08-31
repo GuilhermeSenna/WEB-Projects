@@ -1,0 +1,18 @@
+body {
+  text-align: center;
+}
+
+.teste {
+  margin: 0 auto;
+  background-color: green;
+}
+
+.tst {
+  text-align: center;
+}
+
+.scrollspySite {
+  position: relative;
+  overflow: auto;
+  height: 345px;
+}
