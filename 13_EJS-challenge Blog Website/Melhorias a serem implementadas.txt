@@ -1,0 +1,2 @@
+1º) Impedir de ser criado outro post com um título já existente.
+2º) Criar uma margem para evitar do <p> extrapolar os limites.
