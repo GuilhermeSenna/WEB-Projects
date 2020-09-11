@@ -1,0 +1,4 @@
+0000000000000000000000000000000000000000 9585f53ca6f08ea491b40436c92576622b85f8ea zBiggui <53920452+zBiggui@users.noreply.github.com> 1599704873 -0300	commit (initial): Initial commit
+9585f53ca6f08ea491b40436c92576622b85f8ea 2f3d0c3c9d493ab61b01dc2d76cfd927928d3f24 zBiggui <53920452+zBiggui@users.noreply.github.com> 1599705230 -0300	commit: Add gitignore, procfile and update ports
+2f3d0c3c9d493ab61b01dc2d76cfd927928d3f24 451755dbd278e535ed00c80398faf84a0f1bada4 zBiggui <53920452+zBiggui@users.noreply.github.com> 1599706144 -0300	commit: Maybe fix app.js
+451755dbd278e535ed00c80398faf84a0f1bada4 d975827ed9e29f353f00ef668f94e9cb45dfb194 zBiggui <53920452+zBiggui@users.noreply.github.com> 1599706391 -0300	commit: Button padding fixed
